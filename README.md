@@ -4,7 +4,7 @@ I'm a **Computer Engineering student** interested in **software development** an
 I enjoy turning real-world problems into simple, user-friendly applications, focusing on both logic and code quality.  
 I’m continuously improving through study and hands-on projects, and I’m looking for opportunities to grow via real work, collaborations, and internships.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)]([https://tuosito.com](https://gabrielemonti.vercel.app))
+🌐 **My Portfolio:** [tuonome.dev]([https://tuonome.dev](https://gabrielemonti.vercel.app))
 
 ---
 
